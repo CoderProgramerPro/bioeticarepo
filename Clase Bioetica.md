@@ -463,7 +463,7 @@ el acceso sin consentimiento del titular respecto de determinadas instituciones 
 
 en cualquier caso se requiere reglamentar los procedimientos de acceso a la ficha clinicay los deberes y resguardos exigidos por las leyes 19628 y 20568
 
-
+erick.cortezATgmail.com
 
 
 
