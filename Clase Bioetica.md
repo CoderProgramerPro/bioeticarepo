@@ -281,6 +281,188 @@ experimentacion con menores
 
 necesita tener el consentimiento de los tutores, en caso que no pueda consentir, y solamente puede ser experimentacion terapeutica esto es importantes
 
+# clase 5 
+
+Los profesionales de la salud tiene 7 valores (ficha clinica)
+
+uno de estos es de la calidad donde se presta el servicio de misma manera y con calidad
+
+la ficha clinica se considera hoy como un instrumento obligaorio para integrar la informacion del paciente en la atencion de la salud
+
+ley 19628 ley de la proteccion de la vida privada no es una ley especializada en salud es general
+
+se habla sobre datos sensibles datos personales que se refieren a las caracteristicas fisicas o morales de las personas o a hechos o cicunstancias de su vida privada o intimidad, habitos personales, origen raciak, ideologias ycreencias o convicciones religiosas los estados de salud fisicos o psicologicos
+
+ley 20584 regula derechos y deberes que tienen las personsen relacion con la sacciones en relacion con acciones vinculada a su atencion en salud esta ley explicita el derecho de los pacientes a que quede constancia de la atencion recibida en salud por el profesional que la otorga debiendo obligatoriamente el quien lleve esteregistro 
+
+una institucion puede tener mas de una ficha clinica declarando la existencia de estas:
+
+* el tratante debe tener acceso a toda la informacion del paciente
+
+* fecha de atencion
+
+* el profesional querealizo a atencon
+
+* diagnostico de la evaluacion
+
+* plan terapeutico
+
+* las indicaciones verbales se mantienen registradas
+
+la ficha clinica necesita
+identificacion paciente
+
+Nombre completo
+numero y tipo de documento
+sexo
+fecha d enacimiento
+domicilio
+telefono y o correo
+ocupacion
+
+prevision
+tutor o representante
+
+identificacion para insticuion
+
+numero fucha clinica
+
+fecha de creacion
+
+nombre prestador
+
+rut run del prestador
+
+registro de atenciones especialidad o nombre consulta
+
+anamnesis
+
+evoluciones clinicas
+
+indicaciones p
+
+procedimientos diagnosticos terapeuticos 
+
+intervenciones quirurgicas 
+
+resultado de examenes realizados 
+
+denvaciones e interconsultas
+
+hoja de evaluacion clinica
+
+hoja de enfermeria
+
+epiensis 
+
+otra informacion asociada a la atencion
+
+Decisiones del Paciente
+
+Consentimiento informado de atención y/o tratamiento 
+
+rechazo tratamient
+
+solicitudes de alta voluntaria
+
+alta disciplinaria (si se porta mal se va)
+
+solicitudes del paciente respecto a convicciones etnicas culturales y/o religisas
+
+Todo esto va para la ficha clinica que tiene un enfoque biomedico
+
+El dueño de la informacion es el paciente y tienen acceso 
+
+representante legal
+
+en caso de fallecimiento los herederos
+
+terceros con autorizacion notarial
+
+tribunales de justicia (si la informacion tiene relacion con alguna causa)
+
+fiscales y abogados defensores con autorizacion de un juez competente
+
+y el centro de salud? 
+
+tiene un rol llamado administador y custodio, el hospital es quien mantiene guarda de la informacion personal de los pacientes
+
+ORganismos del ministerio de salud
+
+Servicios de salud instituto de salud publica seremis superintendencia de salud
+
+por este motivo el ministerio de salud promulgo un oficio ordinario y reitera la necestidad de dotar a determinadas entidades con la fucnion de revision o estudios de la ficha clinica con fines de fiscalizacion de prestaciones determinar beneficiarios de salud o para proteccion de la poblacion
+
+se ha prohibido a estas entidades publicas o privadas vender ceder o transferir las bases de datos que contengan informacion sensible respecto de sus pacientes salvo que se trate del otorgamiento de los beneficiario s de salud que les corespondan u objetivos legales para lo cual no se requerira de dicho consentimiento
+
+En investigacion no se incluye el acceso a datos de las fichas ya sea por su registro o los examenes complementarios anexados a ella
+
+UN profesional de la salud no puede acceder a la informacion del paciente si este no lo esta tratando y no puede acceder a datos de salud anteriores a tratamiento
+
+ficha clinica electronica la historia clinica electronica como sistema de gestion de informacion supone incorporara las tecnologias de la informacion y la comunicacion  TIC en el nucleo de la actividad sanitaria esto trae como consecuencia que la historia deje de ser un registreo de la informacion generada en la relacion entre un paciente y un profesional o un centro de salud para formar parte de un sistema integrado de investigacion clinica
+
+esto
+
+integra la info
+
+evita duplicidad de info
+
+evita inconsistencia
+
+facilita el acceso a la info
+
+el concepto general se ocupa HIS (hospital information system) este compone parte de servicios departamentales de salud e incluso la parte financiera
+
+Consentimiento informado 
+
+Segun la ley 20584 sobre derechos y deberes del paciente todas las personas tienen el derecho de otorgar o denegar su voluntad para ser sometido a un proceimiento o tratmaineto de forma libre y voluntaria todos los procedimientoes que conlleven riesgo del pacientes 
+
+procedimiento sinvasivos
+
+intervenciones quirurgicas
+
+en que caso no es necesario
+
+Falta de aplicaion del procedimiento suponga un riesgo para la salud publica 
+
+la condicion de saud de la persona implique riesgo vital o secuela funcional grave sino se realiza la atencion en forma inmediata 
+
+si el paciente no pede expresar su voluntad y el representante legal no se encuentre 
+
+la persona se encuentre en incapacidad de manifestar su voluntad y su representante legal no exista
+
+existen los CEA que son comites eticos asistenciales y ellos van a evaluar si se puede actuar un tratamiento sin tener el consentimiento del paciente lo cual es importante. En chile la vida esta a nivel constitucion en general los establecimientos no pierden en un juicio por un paciente salvado sin su consentimiento
+
+a un niño se requiere pedir consentimiento informado a un niño 
+
+segun la convencion de los derechos del niño suscrito por chile en 1990 si el niño esta en condiciones de formarse un juicio cuenta con derecho de autonomia gradual en funcion a su edad y madurez
+
+el colegio medico de chile destaca el secreto profesional siendo necesario guardar confidencialidad de la informacion verbal obtenida del paciente y los registros solo siendo posbile vulnerar para el caso de las enferemedades de notificacion obligatoria solicitud de los trubunales de usticia certificados de nacimineto o defuncion si es imprescindible ante el perjuicio grave para el paciente o terceros si es neceario para su defensa ante tribunales
+
+El decreto obliga a la notificaion de enfermedaes junto a la identificaion del paciente solo en caso de enfermedades de transmision sexual se reemplaza el nombre y apellido por el RUN y el domicilio por comuna
+
+Uso de investigacion contempla el uso como material humano como informacion disponible identificable el uso del contenido de esta ficha clinica requiere de la aprovacion de un comite de etica cientifico acreditado
+
+LA autorizacion del director del establecimiento
+
+La ley 20120 sobre la investigacion en el ser humano, genoma y clonacion explicita el consentimiento previo expreso libre e informado o de su representante mediante la fimra de un acta para ser parte de una investigacion
+
+el acta debe contener en forma comprensible la finalidad de la investigacion beneficio riesgos y procedimientos
+
+el acta de consnetimiento puede ser revocado en cualquier momento
+
+ley 20584 nuevamente  20120 (prohibe la clonacion humana)
+
+se tuvo que crear una comision investigadora en salud (CMEIS) se llego a un acuerdo para estudios retrospectivos 
+
+No hay inconveniente en el uso para investigacion de la informacion anonimizada proveninente de fichas clinicas no debe haber forma de formar una vinculacion a una persona, se debe borrar nombre run domicilio y cualquier informacion que pueda llevar a identificar una persona
+
+el acceso a la ficha clinca con fines de investigacion debe hacerse conforme a la ley de investigacion esto es con consentimiento informado del titular 
+
+el acceso sin consentimiento del titular respecto de determinadas instituciones autorizadas ppor la ley entre estas el ministerio de salud interesado en la investigacion en areas determinadas 
+
+en cualquier caso se requiere reglamentar los procedimientos de acceso a la ficha clinicay los deberes y resguardos exigidos por las leyes 19628 y 20568
+
 
 
 
